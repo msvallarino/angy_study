@@ -9,6 +9,10 @@ Study guide for developer. En markdown (.md)
 - git status
 - git pull
 
+- git merge
+- `git checkout -b <branch_name>` (para crear nuevas ramas)
+- `git checkout <branch_name>` (sin el flag `-b` es para cambiarse de ramas)
+
 ## Links
 
 - https://www.atlassian.com/git
