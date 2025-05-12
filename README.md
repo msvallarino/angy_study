@@ -5,7 +5,7 @@ Study guide for developer. En markdown (.md)
 
 - git add: tried
 - git commit: tried
-- git push: 
+- git push: tried
 - git status
 - git pull
 - git init
