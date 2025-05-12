@@ -3,16 +3,17 @@ Study guide for developer. En markdown (.md)
 
 ## Comandos basicos de git
 
-- git add
+- git add: intentado
 - git commit
 - git push
 - git status
 - git pull
+- git init
 
 - git merge
 - `git checkout -b <branch_name>` (para crear nuevas ramas)
 - `git checkout <branch_name>` (sin el flag `-b` es para cambiarse de ramas)
-
+## Cambio
 
 ## Flujo/Flow
 
@@ -31,3 +32,5 @@ Study guide for developer. En markdown (.md)
 - https://www.w3schools.com/git/
 
 
+## git add: -> git add file name
+## git commit: -> git commit -m "commit name" any name
