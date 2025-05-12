@@ -3,9 +3,9 @@ Study guide for developer. En markdown (.md)
 
 ## Comandos basicos de git
 
-- git add: intentado
-- git commit
-- git push
+- git add: tried
+- git commit: tried
+- git push: 
 - git status
 - git pull
 - git init
@@ -32,5 +32,6 @@ Study guide for developer. En markdown (.md)
 - https://www.w3schools.com/git/
 
 
-## git add: -> git add file name
-## git commit: -> git commit -m "commit name" any name
+ (1) git add: -> git add file name
+ (2) git commit: -> git commit -m "commit name" -> any name 
+ (3) git push: -> git push
