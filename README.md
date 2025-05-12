@@ -32,6 +32,6 @@ Study guide for developer. En markdown (.md)
 - https://www.w3schools.com/git/
 
 
- (1) git add: -> git add file name
- (2) git commit: -> git commit -m "commit name" -> any name 
- (3) git push: -> git push
+ (1) git add: -> git add file name <br>
+ (2) git commit: -> git commit -m "commit name" -> any name <br>
+ (3) git push: -> git push 
