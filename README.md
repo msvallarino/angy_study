@@ -29,7 +29,7 @@ Study guide for developer. En markdown (.md)
 
 - https://www.atlassian.com/git 
 - https://learngitbranching.js.org/
-- https://www.w3sgitchools.com/git/
+- https://www.w3schools.com/git/
 
 
  (1) git add: -> git add file name <br>
