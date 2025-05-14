@@ -29,9 +29,17 @@ Study guide for developer. En markdown (.md)
 
 - https://www.atlassian.com/git 
 - https://learngitbranching.js.org/
-- https://www.w3schools.com/git/
+- https://www.w3sgitchools.com/git/
 
 
  (1) git add: -> git add file name <br>
  (2) git commit: -> git commit -m "commit name" -> any name <br>
  (3) git push: -> git push 
+
+## git branches
+
+- `main` (old `master`): son de production
+- `qa` que son para los de QA o tester
+- `dev` o `develop` que son de los desarrolladores para romper y subir lo que quieran
+
+- nueva rama en git `new_feature` --> `git merge dev` --> `git merge qa` --> `git merge main`
